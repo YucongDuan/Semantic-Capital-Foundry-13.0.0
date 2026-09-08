@@ -1,8 +1,10 @@
 # DIKWP Semantic Capital Foundry 13.0.0
 
-> Compile scattered organisational knowledge into signed, testable, governable and reusable **Cognitive Asset Capsules**.
+Created by Yucong Duan (段玉聪).
 
-**Mode**
+> Compile scattered organisational knowledge into signed, testable, governable and reusable Cognitive Asset Capsules.
+
+Mode
 
 `SCF13_KNOWLEDGE_EQUITY_SEMANTIC_CAPITAL_COMPILE_GOVERNED_REUSE_REALITY_CLOSURE`
 
@@ -17,11 +19,11 @@ Generic information, code examples and model access are becoming cheaper and mor
 - how a workflow is tested before release and revised after reality contact;
 - who contributed, authorized, operates, pays for and bears the risk of the asset.
 
-A conventional knowledge base stores text. A generic RAG system retrieves text. Semantic Capital Foundry creates a **governed executable asset**: a versioned harness, a signed Purpose Contract, provenance-bearing semantic cards, validation and hidden-test evidence, capability boundaries, economics assumptions and an append-only decision trail.
+A conventional knowledge base stores text. A generic RAG system retrieves text. Semantic Capital Foundry creates a governed executable asset: a versioned harness, a signed Purpose Contract, provenance-bearing semantic cards, validation and hidden-test evidence, capability boundaries, economics assumptions and an append-only decision trail.
 
 ## What is sold
 
-The product unit is not a prompt and not a chatbot. It is a `.cacpkg` **Cognitive Asset Capsule**:
+The product unit is not a prompt and not a chatbot. It is a `.cacpkg` Cognitive Asset Capsule:
 
 ```text
 source corpus + ownership/consent
@@ -78,7 +80,7 @@ Open:
 outputs/demo/dashboard.html
 ```
 
-The demonstration builds a bilingual after-sales triage capsule from three synthetic policy/experience documents and 168 synthetic labelled records. Four harness candidates are evaluated. The candidate is selected with validation data only; the hidden test is loaded after selection. The synthetic rule-generated test produces perfect results by construction and therefore demonstrates pipeline integrity, **not production accuracy**.
+The demonstration builds a bilingual after-sales triage capsule from three synthetic policy/experience documents and 168 synthetic labelled records. Four harness candidates are evaluated. The candidate is selected with validation data only; the hidden test is loaded after selection. The synthetic rule-generated test produces perfect results by construction and therefore demonstrates pipeline integrity, not production accuracy.
 
 Run a capsule:
 
@@ -115,20 +117,20 @@ Optional builder candidates can be placed in a directory and supplied with `--ca
 
 The Apache-2.0 community core is intended to create adoption and an independently inspectable standard. Revenue is expected from the work that enterprises cannot obtain merely by copying code:
 
-1. **Cognitive Asset Discovery Pilot** — identify one high-volume decision, establish provenance and owner rights, and produce the first measured capsule.
-2. **Private Foundry Deployment** — private connectors, identity, KMS/HSM signing, private registry, evaluation operations, observability and support.
-3. **Regulated Decision Assurance** — domain-specific policy mapping, independent validation, change control, review workflow and evidence export.
-4. **Capsule Operations** — monitoring, drift evaluation, revision, retirement, cross-model portability and portfolio governance.
-5. **Knowledge Owner Marketplace** — licensed domain capsules, contributor attribution and revenue-sharing controls; this is a roadmap module, not implemented in the alpha core.
+1. Cognitive Asset Discovery Pilot — identify one high-volume decision, establish provenance and owner rights, and produce the first measured capsule.
+2. Private Foundry Deployment — private connectors, identity, KMS/HSM signing, private registry, evaluation operations, observability and support.
+3. Regulated Decision Assurance — domain-specific policy mapping, independent validation, change control, review workflow and evidence export.
+4. Capsule Operations — monitoring, drift evaluation, revision, retirement, cross-model portability and portfolio governance.
+5. Knowledge Owner Marketplace — licensed domain capsules, contributor attribution and revenue-sharing controls; this is a roadmap module, not implemented in the alpha core.
 
 Illustrative pricing and economics in the commercial report are planning assumptions, not a quotation or guarantee.
 
 ## Relationship to adjacent DIKWP systems
 
-- **DIKWP-EIDOS 9.5** is an upstream owner-governed essence compiler. It identifies durable semantic invariants, decision competence, revision worldlines, rights and frontier residuals.
-- **TrustPlane OS** provides a portfolio-level Purpose–evidence–memory–action–accountability control plane.
-- **ProofLedger** and **AgentTrace** provide claim–evidence assurance and replayable traces.
-- **TIANHENG 12.0** governs system-capability changes, multi-agent organization and stop authority.
+- DIKWP-EIDOS 9.5 is an upstream owner-governed essence compiler. It identifies durable semantic invariants, decision competence, revision worldlines, rights and frontier residuals.
+- TrustPlane OS provides a portfolio-level Purpose–evidence–memory–action–accountability control plane.
+- ProofLedger and AgentTrace provide claim–evidence assurance and replayable traces.
+- TIANHENG 12.0 governs system-capability changes, multi-agent organization and stop authority.
 - Semantic Capital Foundry converts selected knowledge and boundaries into a commercially deployable, versioned cognitive asset and leaves the above governance lineage visible.
 
 ## Security and governance invariants
